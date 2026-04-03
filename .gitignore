@@ -1,0 +1,12 @@
+# Ignore API Keys
+.env
+
+# Ignore heavy React dependencies
+node_modules/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system junk files
+.DS_Store
